@@ -99,4 +99,6 @@ void GameLoop::draw()
 
 void GameLoop::clean()
 {
+	SDL_DestroyWindow(window);
+	SDL_GL_DeleteContext(context);
 }

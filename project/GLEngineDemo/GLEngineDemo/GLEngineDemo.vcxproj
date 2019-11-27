@@ -69,8 +69,8 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <IncludePath>C:\Users\id120545\Desktop\BCU_OPENGL_TUTORIALS\libraries\glew-2.1.0\include;C:\Users\id120545\Desktop\BCU_OPENGL_TUTORIALS\libraries\glm-0.9.7.1;C:\Users\id120545\Desktop\BCU_OPENGL_TUTORIALS\libraries\SDL2_image-2.0.3\include;C:\Users\id120545\Desktop\BCU_OPENGL_TUTORIALS\libraries\SDL2-2.0.8\include;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\Users\id120545\Desktop\BCU_OPENGL_TUTORIALS\libraries\glew-2.1.0\lib\Release\Win32;C:\Users\id120545\Desktop\BCU_OPENGL_TUTORIALS\libraries\SDL2_image-2.0.3\lib\x86;C:\Users\id120545\Desktop\BCU_OPENGL_TUTORIALS\libraries\SDL2-2.0.8\lib\x86;$(LibraryPath)</LibraryPath>
+    <IncludePath>C:\Users\id120545\Desktop\BCU_OPENGL_ENGINE_TUTORIAL\libraries\glew-2.1.0\include;C:\Users\id120545\Desktop\BCU_OPENGL_ENGINE_TUTORIAL\libraries\glm-0.9.7.1;C:\Users\id120545\Desktop\BCU_OPENGL_ENGINE_TUTORIAL\libraries\SDL2_image-2.0.3\include;C:\Users\id120545\Desktop\BCU_OPENGL_ENGINE_TUTORIAL\libraries\SDL2-2.0.8\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\id120545\Desktop\BCU_OPENGL_ENGINE_TUTORIAL\libraries\glew-2.1.0\lib\Release\Win32;C:\Users\id120545\Desktop\BCU_OPENGL_ENGINE_TUTORIAL\libraries\SDL2_image-2.0.3\lib\x86;C:\Users\id120545\Desktop\BCU_OPENGL_ENGINE_TUTORIAL\libraries\SDL2-2.0.8\lib\x86;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
